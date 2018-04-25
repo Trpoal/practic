@@ -1,7 +1,7 @@
 function MODEL(dt, T, M, X, V)
 все идет по плану 
 (нет)
-а Жора все же ЛОШАРА
+а Полина все же ЛОШАРА
 t = 0 : dt : T;
 XYLim=[-max(max(X)) max(max(X))]*1.2;
 TRACE = cell(size(M));
